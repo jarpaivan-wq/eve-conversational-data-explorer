@@ -215,14 +215,13 @@ I design conversational AI agents that bridge business analytics and artificial 
 
 My background combines MBA-level business understanding with hands-on data skills (SQL, Power BI, Python) and AI system design. I believe the most valuable AI Engineers are those who understand both sides: the business problem and the technical solution.
 
-📌 [LinkedIn](https://linkedin.com/in/tu-perfil)
+📌 [LinkedIn](https://linkedin.com/in/biexcel)
 
 ---
 
 ## 📄 Documentation
 
-- [Technical Design Document](./docs/EVE_Documento_Tecnico_v1.0_Final.docx)
-- [AI Agent Creation Manual v3](./docs/Manual_Agentes_IA_v3.docx)
+- [Technical Design Document](./docs/EVE_Technical_Design_Document_v1.0.docx)
 
 ---
 
